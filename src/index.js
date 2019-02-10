@@ -13,7 +13,7 @@ function App() {
       />
       <h1>Flash Intro to React Hooks</h1>
 
-      <h2>@siddhant6969</h2> */}
+      <h2>@dev_siddhant</h2> */}
       <Counter />
     </div>
   );
