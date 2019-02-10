@@ -7,14 +7,14 @@ import "./styles.css";
 function App() {
   return (
     <div className="App container2">
-      <img
+      {/* <img
         style={{ height: "150px" }}
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-React-icon.svg.png"
       />
       <h1>Flash Intro to React Hooks</h1>
 
-      <h2>@siddhant6969</h2>
-      {/* <Counter /> */}
+      <h2>@siddhant6969</h2> */}
+      <Counter />
     </div>
   );
 }
